@@ -1,0 +1,21 @@
+
+
+
+#homePage {
+  background-color: red;
+  height:100%;
+  /* color:white; */
+  width:100%
+}
+
+#navBar AppBar h3{
+  font-family: 'Lato Regular';
+  font-weight: 400;
+  color:whitesmoke;
+  font-size: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: black;
+}
+

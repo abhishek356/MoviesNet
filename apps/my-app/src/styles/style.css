@@ -1,0 +1,15 @@
+
+.nav-button{
+
+    color:#929598;
+                    font-weight:400px;
+                    font-size:14px;
+                    text-transform:none;
+                    line-height:20px;
+                   
+                }
+
+                .nav-button:hover{
+                    color:#d2dfe4;
+                    font-weight:'1500'
+                    }               
